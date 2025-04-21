@@ -1,6 +1,5 @@
-const a = "hello"
-console.log(a)
-
+const a = "hello";
+console.log(a);
 
 function getFirstValue(arr) {
     if (Array.isArray(arr) && arr.length > 0){
